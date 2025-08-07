@@ -1,0 +1,12 @@
+# ignore entire data folder
+data/
+train_processed.csv
+
+# ignore specific notebooks
+credit_card_bal_DEA.ipynb
+logistic_regression.ipynb
+
+# Ignore CatBoost output folder
+catboost_info/
+
+.venv/
