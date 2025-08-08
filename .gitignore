@@ -10,3 +10,5 @@ logistic_regression.ipynb
 catboost_info/
 
 .venv/
+
+.DS_Store
